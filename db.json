@@ -1,0 +1,365 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "Vehicles",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Where are the cars of the brand &quot;Ferrari&quot; manufactured?",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+          "Romania",
+          "Germany",
+          "Russia"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What type of animal is a natterjack?",
+        "correct_answer": "Toad",
+        "incorrect_answers": [
+          "Bird",
+          "Fish",
+          "Insect"
+        ]
+      },
+      {
+        "category": "Entertainment: Board Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In a standard game of Monopoly, what colour are the two cheapest properties?",
+        "correct_answer": "Brown",
+        "incorrect_answers": [
+          "Green",
+          "Yellow",
+          "Blue"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the 1976 film &#039;Taxi Driver&#039;, how many guns did Travis buy from the salesman?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "2",
+          "6",
+          "1"
+        ]
+      },
+      {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+        "correct_answer": "Big Daddy",
+        "incorrect_answers": [
+          "Giant Haystacks",
+          "Kendo Nagasaki",
+          "Masambula"
+        ]
+      },
+      {
+        "category": "Entertainment: Musicals & Theatres",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which Shakespeare play inspired the musical &#039;West Side Story&#039;?",
+        "correct_answer": "Romeo &amp; Juliet",
+        "incorrect_answers": [
+          "Hamlet",
+          "Macbeth",
+          "Othello"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Area 51 is located in which US state?",
+        "correct_answer": "Nevada",
+        "incorrect_answers": [
+          "Arizona",
+          "New Mexico",
+          "Utah"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What does AD stand for in relation to Windows Operating Systems? ",
+        "correct_answer": "Active Directory",
+        "incorrect_answers": [
+          "Alternative Drive",
+          "Automated Database",
+          "Active Department"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+        "correct_answer": "Final",
+        "incorrect_answers": [
+          "Static",
+          "Private",
+          "Public"
+        ]
+      },
+      {
+        "category": "Vehicles",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following car manufacturers had a war named after it?",
+        "correct_answer": "Toyota",
+        "incorrect_answers": [
+          "Honda",
+          "Ford",
+          "Volkswagen"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What company created and developed the game &quot;Overwatch&quot;?",
+        "correct_answer": "Blizzard Entertainment",
+        "incorrect_answers": [
+          "Valve",
+          "Hi-Rez Studios",
+          "Gearbox Software"
+        ]
+      },
+      {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the capital of Senegal?",
+        "correct_answer": "Dakar",
+        "incorrect_answers": [
+          "Nouakchott",
+          "Conakry",
+          "Monrovia"
+        ]
+      },
+      {
+        "category": "Entertainment: Musicals & Theatres",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In Jeff Wayne&#039;s Musical Version of War of the Worlds, the chances of anything coming from Mars are...",
+        "correct_answer": "A million to one",
+        "incorrect_answers": [
+          "A billion to one",
+          "A trillion to one",
+          "A hundred to one"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In WarioWare: Smooth Moves, which one of these is NOT a Form?",
+        "correct_answer": "The Hotshot",
+        "incorrect_answers": [
+          "The Discard",
+          "The Elephant",
+          "The Mohawk"
+        ]
+      },
+      {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Gwyneth Paltrow has a daughter named...?",
+        "correct_answer": "Apple",
+        "incorrect_answers": [
+          "Lily",
+          "French",
+          "Dakota"
+        ]
+      },
+      {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the mnemonic device for remembering the fates of the wives of Henry VIII?",
+        "correct_answer": "Divorced, Beheaded, Died, Divorced, Beheaded, Survived",
+        "incorrect_answers": [
+          "Beheaded, Died, Divorced, Divorced, Beheaded, Survived",
+          "Died, Beheaded, Divorced, Beheaded, Survived, Divorced",
+          "Survived, Beheaded, Died, Divorced, Divorced, Beheaded"
+        ]
+      },
+      {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the smallest country in South America by area?",
+        "correct_answer": "Suriname",
+        "incorrect_answers": [
+          "Brazil",
+          "Uruguay",
+          "Chile"
+        ]
+      },
+      {
+        "category": "Entertainment: Japanese Anime & Manga",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is the author of the manga series &quot;Astro Boy&quot;?",
+        "correct_answer": "Osamu Tezuka",
+        "incorrect_answers": [
+          "Mitsuteri Yokoyama",
+          "Takao Saito",
+          "Yoshihiro Tatsumi"
+        ]
+      },
+      {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which show is known for the songs &quot;You are a Pirate&quot;, &quot;Cooking by the Book&quot; and &quot;We Are Number One&quot;?",
+        "correct_answer": "LazyTown",
+        "incorrect_answers": [
+          "Sofia the First",
+          "DuckTales",
+          "Tom and Jerry"
+        ]
+      },
+      {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the Klingon&#039;s afterlife called?",
+        "correct_answer": "Sto-vo-kor",
+        "incorrect_answers": [
+          "Valhalla",
+          "Karon&#039;gahk",
+          "New Jersey"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In &quot;Earthbound&quot;, how does one enter &quot;Master Belch&#039;s&quot; factory?",
+        "correct_answer": "Wait 3 Minutes",
+        "incorrect_answers": [
+          "Enter the password &quot;Fly Honey&quot;",
+          "Enter the password &quot;Master Belch Rules&quot;",
+          "Enter the password &quot;Mr Saturn Drools&quot;"
+        ]
+      },
+      {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Where is the &quot;Sonoran Desert&quot; located?",
+        "correct_answer": "North America",
+        "incorrect_answers": [
+          "South America",
+          "Asia",
+          "Africa"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the &quot;Jurassic Park&quot; universe, when did &quot;Jurassic Park: San Diego&quot; begin construction?",
+        "correct_answer": "1985",
+        "incorrect_answers": [
+          "1988",
+          "1986",
+          "1993"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who directed the movie &quot;Alien&quot;?",
+        "correct_answer": "Ridley Scott",
+        "incorrect_answers": [
+          "Christopher Nolan",
+          "Michael Bay",
+          "James Cameron"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is real haggis made of?",
+        "correct_answer": "Sheep&#039;s Heart, Liver and Lungs",
+        "incorrect_answers": [
+          "Sheep&#039;s Heart, Kidneys and Lungs",
+          "Sheep&#039;s Liver, Kidneys and Eyes",
+          "Whole Sheep"
+        ]
+      },
+      {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?",
+        "correct_answer": "Sri Lanka",
+        "incorrect_answers": [
+          "Kiribati",
+          "Scotland",
+          "Bhutan"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is Tasmania?",
+        "correct_answer": "An Australian State",
+        "incorrect_answers": [
+          "A flavor of Ben and Jerry&#039;s ice-cream",
+          "A Psychological Disorder",
+          "The Name of a Warner Brothers Cartoon Character"
+        ]
+      },
+      {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which actor portrays &quot;Walter White&quot; in the series &quot;Breaking Bad&quot;?",
+        "correct_answer": " Bryan Cranston",
+        "incorrect_answers": [
+          "Andrew Lincoln",
+          "Aaron Paul",
+          "RJ Mitte"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "&quot;Hallelujah&quot; is a song written by which Canadian recording artist?",
+        "correct_answer": "Leonard Cohen",
+        "incorrect_answers": [
+          "Kory Lefkowits",
+          "Ryan Letourneau ",
+          "Justin Bieber "
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these artists did NOT feature in the fitfh studio album &quot;Humanz&quot; by British virtual band Gorillaz?",
+        "correct_answer": "Snoop Dogg",
+        "incorrect_answers": [
+          "Vince Staples",
+          "Pusha T",
+          "Danny Brown"
+        ]
+      }
+    ]
+  }
